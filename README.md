@@ -6,8 +6,7 @@ The Weather API App is a simple web application that allows users to fetch and d
 
 - Fetches and displays current weather data for a specified location
 - Provides temperature, humidity, wind speed, and weather condition details
-- Supports searching for weather information by city name or geographic coordinates
-- Displays weather icons corresponding to the current weather condition
+- Supports searching for weather information by city name 
 - Responsive design for optimal viewing on different devices
 
 ## Technologies Used
